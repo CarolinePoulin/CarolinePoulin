@@ -1,4 +1,4 @@
-# [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Caroline Poulin")](https://some-url.dev/)
+# [![Header](https://github.com/CarolinePoulin/portfolio/blob/2048276d422584223a3d6c940469997df0d09356/img/world-wide-web.jpg "Caroline Poulin")](https://some-url.dev/)
 
 ### Hi there 👋
 
