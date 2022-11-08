@@ -1,6 +1,6 @@
 # [![Header](https://github.com/CarolinePoulin/portfolio/blob/9a7319fb49bfa6fcb463dedc728d0fa5b3559bf2/img/web.jpg "web")](https://some-url.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/CarolinePoulin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinePoulin)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Bonjour 👋
 
