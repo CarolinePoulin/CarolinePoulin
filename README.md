@@ -1,6 +1,6 @@
-# [![Header](https://github.com/CarolinePoulin/portfolio/blob/2048276d422584223a3d6c940469997df0d09356/img/web.jpg "Caroline Poulin")](https://some-url.dev/)
+# [![Header](https://github.com/CarolinePoulin/portfolio/blob/2048276d422584223a3d6c940469997df0d09356/img/web.jpg "web")](https://some-url.dev/)
 
-### Hi there 👋
+### Bonjour 👋
 
 <!--
 **CarolinePoulin/CarolinePoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
