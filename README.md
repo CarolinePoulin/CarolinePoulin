@@ -2,7 +2,19 @@
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinePoulin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
+
 I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+### My Digital Garden 🌱
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
