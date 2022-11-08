@@ -6,8 +6,6 @@ I write regular blog posts, most of which you will find on my personal website [
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://waylonwalker.com/latest)
-
 <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
@@ -19,7 +17,9 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-### Bonjour 👋
+### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+
+#### Bonjour 👋
 
 <!--
 **CarolinePoulin/CarolinePoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
