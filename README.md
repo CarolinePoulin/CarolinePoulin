@@ -9,7 +9,7 @@
 </p>
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinePoulin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
  
  ## A propos de moi
