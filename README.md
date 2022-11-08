@@ -1,13 +1,13 @@
 # [![Header](https://github.com/CarolinePoulin/portfolio/blob/main/img/web2.jpg "web")](https://some-url.dev/)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinePoulin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-### A propos de moi
+## A propos de moi
 
 Avec ma formation en développement Web, je désire procéder à un changement de carrière soit en entreprise ou en tant que travailleuse indépendante.
 En offrant un soutien à une entrepreneure recherchant une personne pour la conception de ses sites web et de podcast, je me suis découverte une vraie passion pour la
 programmation.
 Développement Web (Front-End)
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinePoulin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CarolinePoulin/CarolinePoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
