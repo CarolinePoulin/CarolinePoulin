@@ -2,6 +2,12 @@
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinePoulin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+
+[Latest Post 👉](https://waylonwalker.com/latest)
+
 ### Bonjour 👋
 
 <!--
